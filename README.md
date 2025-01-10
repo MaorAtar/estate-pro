@@ -41,8 +41,6 @@
 ---
 
 ## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+1. Clone the repository.
 2. Compile the project using your preferred C++ compiler.
 3. Run the program and follow the menu to explore functionalities.
